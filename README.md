@@ -1,3 +1,8 @@
+This is what appears when the user types in a range of peoples names and there marks that they got in there exams,
+
+![image](https://github.com/Phil69691/Student-marks/assets/114498774/cbea5e1d-9073-4025-bd94-ee2167f50359)
+
+
 This is the data i used ot determine what mark the students got compared to how many marks they got
 
 Mark Range	Grade	Classification
