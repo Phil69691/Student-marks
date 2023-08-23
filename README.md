@@ -3,6 +3,11 @@ This is what appears when the user types in a range of peoples names and there m
 ![image](https://github.com/Phil69691/Student-marks/assets/114498774/cbea5e1d-9073-4025-bd94-ee2167f50359)
 
 
+This shows that the code will crash if you type in anything else other than numbers into when it askes you to type in the students name 
+
+![image](https://github.com/Phil69691/Student-marks/assets/114498774/9d9aa77c-2cf3-48b6-9efd-06cb528276ad)
+
+
 This is the data i used ot determine what mark the students got compared to how many marks they got
 
 Mark Range	Grade	Classification
